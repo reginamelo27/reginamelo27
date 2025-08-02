@@ -24,4 +24,4 @@
 
 ## 📫 Entre em contato comigo
 - Email: reginamelo.dev@gmail.com
-- LinkedIn: [[linkedin.com/in/reginamelo27](https://www.linkedin.com/in/reginamelo27](https://www.linkedin.com/in/regina-maria-macedo-melo-1040532a2/))
+- LinkedIn: ([https://www.linkedin.com/in/regina-maria-macedo-melo-1040532a2/)
