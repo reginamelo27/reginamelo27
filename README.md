@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Regina Melo!
 
-<!--
-**reginamelo27/reginamelo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Júnior | 👩‍🎓 Pós-graduada em Programação de Computadores
 
-Here are some ideas to get you started:
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas (UNOPAR)
+- 📚 Pós-graduação em Aplicações Específicas de Programação (Descomplica)
+- 💼 Atualmente trabalho na [Grupo Êxito - Tecnologia em Gestão Pública]
+- 👩‍💻 Experiência com C#, Angular, PostgreSQL, SQL Server, MySQL, Dapper e iText7
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## 🧠 Atualmente aprendendo
+- Arquitetura de Software
+- Unity + C# para jogos educacionais
+- Docker e boas práticas de deploy
+- Desenvolvimento Mobile  em React Native
+
+## 📈 GitHub Stats
+![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reginamelo27&show_icons=true&theme=radical)
+
+## 📫 Entre em contato comigo
+- Email: reginamelo.dev@gmail.com
+- LinkedIn: [[linkedin.com/in/reginamelo27](https://www.linkedin.com/in/reginamelo27](https://www.linkedin.com/in/regina-maria-macedo-melo-1040532a2/))
