@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Regina Melo!
+# 👋 Olá, eu sou  Regina Melo!
 
 💻 Desenvolvedora Júnior | 👩‍🎓 Pós-graduada em Programação de Computadores
 
@@ -23,5 +23,5 @@
 ![Regina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reginamelo27&show_icons=true&theme=radical)
 
 ## 📫 Entre em contato comigo
-- Email: reginamelo.dev@gmail.com
+- Email: reginamelo27@gmail.com
 - LinkedIn: ([https://www.linkedin.com/in/regina-maria-macedo-melo-1040532a2/)
