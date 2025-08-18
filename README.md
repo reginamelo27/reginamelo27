@@ -15,7 +15,7 @@
 
 ## 🧠 Atualmente aprendendo
 - Arquitetura de Software
-- Unity + C# para jogos educacionais
+-  C# para APIs
 - Docker e boas práticas de deploy
 - Desenvolvimento Mobile  em React Native
 
